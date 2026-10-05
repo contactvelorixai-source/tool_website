@@ -14,7 +14,11 @@
 - [PDF to Word](https://fileora.com/tools/pdf-to-word.html): To convert PDF to Word, upload the PDF and Fileora rebuilds its text, tables and images as an editable DOCX file that opens in Microsoft Word or Google Docs. Everyone gets 2 free conversions a day, and Pro gives unlimited conversions with bigger files. (Pro)
 - [AI Background Remover](https://fileora.com/tools/background-remover.html): To remove a background from a photo, upload it and the AI cuts out the person or product automatically, including hair and soft edges. Download a transparent PNG or choose a white background for marketplace listings. Everyone gets 2 free images a day, and Pro adds HD and batch mode. (Pro)
 - [Image to Text (OCR)](https://fileora.com/tools/image-to-text.html): To copy text from an image, upload a photo, screenshot or scanned page, choose English, Hindi or both, and tap Extract text. Fileora uses OCR (optical character recognition) to turn the picture into editable text you can copy or save. You get 2 free scans a day. (Pro)
-- [Resume / CV Maker](https://fileora.com/tools/resume-maker.html): To make a resume, fill in your contact details, summary, experience, education and skills, pick a template and colour, and watch the preview update as you type. Download it as an ATS-friendly PDF with real, searchable text. Building and previewing is free and your draft stays in your browser. (Pro)
+- [Simple CV Maker](https://fileora.com/tools/resume-maker.html): To make a resume, fill in your contact details, summary, experience, education and skills, pick a template and colour, and watch the preview update as you type. Download it as an ATS-friendly PDF with real, searchable text. Building and previewing is free and your draft stays in your browser. (Pro)
+- [Visual CV Maker](https://fileora.com/tools/visual-resume-maker.html): To make a visual resume, fill in your details, add a photo, pick a layout and colour theme, and the designed resume updates live. Download it as a high-quality PDF or as a one-page personal website you can host for free. Previewing is free; downloads are a small one-time fee or included in Pro. (Pro)
+- [Age Calculator](https://fileora.com/tools/age-calculator.html): To calculate your age, enter your date of birth and the date to measure to, which is today by default. The calculator shows your exact age in years, months and days, your total age in months, weeks, days and hours, the weekday you were born, and a countdown to your next birthday. (Free)
+- [Word Counter](https://fileora.com/tools/word-counter.html): To count words, paste or type your text in the box. The word counter instantly shows words, characters with and without spaces, sentences, paragraphs, reading time and speaking time, plus your most repeated words. It works with English, Hindi and other Indian languages, and nothing is uploaded. (Free)
+- [QR Code Generator](https://fileora.com/tools/qr-code-generator.html): To make a QR code, choose a type such as link, UPI, WhatsApp or Wi-Fi, fill in the details, and the QR code appears instantly. Pick colours and size, then download it as PNG or SVG. Fileora's QR codes are free, have no watermark and never expire because the data is stored in the code itself. (Free)
 
 ## Popular tasks
 
@@ -25,6 +29,7 @@
 - [HEIC to JPG](https://fileora.com/tools/heic-to-jpg.html): Convert iPhone HEIC photos to JPG in your browser. Batch convert, free, no upload.
 - [WebP to JPG](https://fileora.com/tools/webp-to-jpg.html): Convert WebP images to JPG (or PNG) instantly. Batch convert for free in your browser.
 - [PNG to PDF](https://fileora.com/tools/png-to-pdf.html): Convert PNG screenshots and images to PDF free. Reorder pages and download instantly. No upload.
+- [UPI QR Code Generator](https://fileora.com/tools/upi-qr-code-generator.html): Create a free UPI payment QR code with your UPI ID, name and an optional fixed amount. Works with GPay, PhonePe, Paytm and BHIM. Download PNG.
 - [Passport Size Photo](https://fileora.com/tools/passport-size-photo.html): Resize any photo to passport size (35×45 mm, 413×531 px) for Indian passport, visa and exam forms. Free and private.
 
 ## About
